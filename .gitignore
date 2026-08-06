@@ -1,0 +1,63 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type Checking & Linting
+.mypy_cache/
+.ruff_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Cache
+cache/
+.temp/
+tmp/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database
+*.sqlite3
+
+# Friday AI Models
+models/
+
+# Local AI caches
+huggingface/
+transformers_cache/
+
+# Generated files
+*.pyc
