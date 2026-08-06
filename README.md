@@ -1,0 +1,1 @@
+# F.R.I.D.A.Y.--Framework-for-Reasoning--Intelligence--Decision-making--Automation---Yield-
